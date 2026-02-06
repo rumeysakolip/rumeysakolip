@@ -1,4 +1,3 @@
-
 # Hey there! 👋
 
 I’m Rümeysa, a 3rd-year Computer Engineering student.
@@ -21,8 +20,4 @@ Bireysel ya da ekip içinde çalışmaya açığım ve başkalarından öğrener
 
 Benimle iletişime geçmek için GitHub profilimde yer alan LinkedIn bağlantısını kullanabilirsiniz.
 
----
-
-> “İki günü birbirine eşit olan aldanmıştır.” — Peygamber Efendimiz (s.a.v.)
-
----
+````    “İki günü birbirine eşit olan aldanmıştır.” — Peygamber Efendimiz (s.a.v.)     ````
