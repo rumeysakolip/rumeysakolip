@@ -1,40 +1,28 @@
-# 👋 Merhaba, ben Rümeysa!
 
-🎓 Bilgisayar Mühendisliği öğrencisiyim. Sayısal donanım tasarımı, FPGA, Gömülü Sistemler ve Görüntü İşleme alanlarına çalışıyorum. Python, Verilog ve C/C++ dilleriyle projeler geliştiriyorum.
+# Hey there! 👋
 
-## 💡 Hakkımda
+I’m Rümeysa, a 3rd-year Computer Engineering student.
 
-- 🔭 Şu an **FPGA üzerinde görüntü işleme** projeleri geliştiriyorum.  
-- 📚 **Donanım hızlandırma**, **paralel mimari**, **SoC tasarımı** gibi konulara odaklandım.  
-- ✍️ Bilgilerimi paylaşmayı seviyorum: blog yazıları ve mini projelerle destekliyorum.  
-- 🌱 Şu anda **SystemVerilog** ve **OpenCL for FPGA** öğreniyorum.
+I’m still in the process of improving my technical skills and learning how different systems work.
+I’m especially interested in projects related to hardware–software interaction, basic cryptography concepts, and data-focused engineering, and I try to learn by experimenting and building small prototypes.
 
-## 🛠️ Kullandığım Araçlar ve Teknolojiler
+I’m comfortable working individually or in a team, and I enjoy learning from others while improving my own problem-solving skills.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=vhdl" />
-  <img src="https://img.shields.io/badge/-FPGA-05122A?style=flat" />
-  <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=mathworks" />
-  <img src="https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-Vivado-05122A?style=flat&logo=xilinx" />
-</div>
+If you’d like to connect, you can visit my LinkedIn profile — the link is available on my GitHub page.
 
-## 📊 GitHub İstatistiklerim
+# Merhaba! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumeysakolip&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysakolip&layout=compact&theme=tokyonight" />
-</div>
+Ben Rümeysa, Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 
-## 📫 Bana Ulaşın
+Teknik becerilerimi geliştirme sürecindeyim ve sistemlerin nasıl çalıştığını daha iyi anlamaya çalışıyorum.
+Özellikle donanım–yazılım etkileşimi, kriptografi temelleri ve veri odaklı projeler ilgimi çekiyor; bu alanlarda küçük projeler yaparak öğrenmeye çalışıyorum.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rümeysa-kolip-7b7844296/)  
-- 📝 [Kişisel Blog](https://caring-egg-91d.notion.site/R-meysa-n-n-Blogu-243ceaf3f04d80f29a03c9a37e327233)  
-- ✉️ rkolip.inform@gmail.com
+Bireysel ya da ekip içinde çalışmaya açığım ve başkalarından öğrenerek kendimi geliştirmeyi önemsiyorum.
+
+Benimle iletişime geçmek için GitHub profilimde yer alan LinkedIn bağlantısını kullanabilirsiniz.
 
 ---
 
 > “İki günü birbirine eşit olan aldanmıştır.” — Peygamber Efendimiz (s.a.v.)
+
+---
