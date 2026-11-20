@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I’m Rümeysa, a 4rd-year Computer Engineering student.
+I’m Rümeysa, a 4th-year Computer Engineering student.
 
 I’m still in the process of improving my technical skills and learning how different systems work.
 I’m especially interested in projects related to hardware–software interaction, basic cryptography concepts, and data-focused engineering, and I try to learn by experimenting and building small prototypes.
