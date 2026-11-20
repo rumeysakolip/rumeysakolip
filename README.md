@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I’m Rümeysa, a 3rd-year Computer Engineering student.
+I’m Rümeysa, a 4rd-year Computer Engineering student.
 
 I’m still in the process of improving my technical skills and learning how different systems work.
 I’m especially interested in projects related to hardware–software interaction, basic cryptography concepts, and data-focused engineering, and I try to learn by experimenting and building small prototypes.
@@ -11,7 +11,7 @@ If you’d like to connect, you can visit my LinkedIn profile — the link is av
 
 # Merhaba! 👋
 
-Ben Rümeysa, Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
+Ben Rümeysa, Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
 
 Teknik becerilerimi geliştirme sürecindeyim ve sistemlerin nasıl çalıştığını daha iyi anlamaya çalışıyorum.
 Özellikle donanım–yazılım etkileşimi, kriptografi temelleri ve veri odaklı projeler ilgimi çekiyor; bu alanlarda küçük projeler yaparak öğrenmeye çalışıyorum.
